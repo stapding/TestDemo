@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\regwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\regwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\regwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\regwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\data\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E85C99-A290-44DB-9387-C48EA114E552}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\webapplication2\\webapplication2\\models\\tradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF3A3B8-CABA-4EC8-96BF-3535718C865E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\tradecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T11:02:03.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\RegWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\RegWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\RegWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\RegWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:58:55.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T10:58:43.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\Data\\Api.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\Api.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\Data\\Api.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\Api.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:55:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\RegWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\RegWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\RegWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\RegWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T10:53:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T10:44:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:44:17.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:58:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:56:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:52:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Models\\TradeContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TradeContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Models\\TradeContext.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TradeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:52:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:50:36.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
